@@ -8,7 +8,7 @@ function Navbar({ message, score, topScore }) {
           <a
             className='nav-calc-font navbar-brand p-0 m-0 title-line-hgt'
             href='/'>
-            TWIN PEAKS <br />
+            LEBRON JAMES FACE <br />
             MEMORY GAME
           </a>
         </li>
