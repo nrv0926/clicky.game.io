@@ -28,7 +28,7 @@
 }
 
 .bg-header {
-  background: url('https://res.cloudinary.com/bcimbali/image/upload/c_scale,dpr_auto,f_auto,q_auto/v1535911207/twin-peaks-memory-game/dark_wood.png');
+  background: url('https://res.cloudinary.com/dlikwefpm/image/upload/v1573535892/clicky-game/Lakers-Fan-Floor_copy_zmufg0.jpg');
 }
 
 .card-holder img {
@@ -37,43 +37,43 @@
 }
 
 .colors {
-  background-color: #634643;
-  color: #58f85c;
+  background-color: #fffb2a;
+  color: #9c04f3;
   text-shadow: 5px 5px 5px #000;
 }
 
 .colors a {
-  color: #58f85c;
+  color: #9c04f3;
 }
 
 .tp-text {
-  color: #634643;
-  text-shadow: -1px -1px 0 #58f85c, 1px -1px 0 #58f85c, -1px 1px 0 #58f85c,
-    1px 1px 0 #58f85c, 4px 3px 0.5px #000;
+  color: #fffb2a;
+  text-shadow: -1px -1px 0 #9c04f3, 1px -1px 0 #9c04f3, -1px 1px 0 #9c04f3,
+    1px 1px 0 #9c04f3, 4px 3px 0.5px #000;
 }
 
 .tp-text a {
-  color: #634643;
-  text-shadow: -1px -1px 0 #58f85c, 1px -1px 0 #58f85c, -1px 1px 0 #58f85c,
-    1px 1px 0 #58f85c, 4px 3px 0.5px #000;
+  color: #fffb2a;
+  text-shadow: -1px -1px 0 #9c04f3, 1px -1px 0 #9c04f3, -1px 1px 0 #9c04f3,
+    1px 1px 0 #9c04f3, 4px 3px 0.5px #000;
 }
 
 .tp-text a:hover {
-  color: #58f85c;
-  text-shadow: -1px -1px 0 #634643, 1px -1px 0 #634643, -1px 1px 0 #634643,
-    1px 1px 0 #634643, 4px 3px 0.5px #000;
+  color: #9c04f3;
+  text-shadow: -1px -1px 0 #fffb2a, 1px -1px 0 #fffb2a, -1px 1px 0 #fffb2a,
+    1px 1px 0 #fffb2a, 4px 3px 0.5px #000;
 }
 
 .neon {
   font-family: 'Dawning of a New Day', Helvetica, Arial, sans-serif;
   color: #fff;
-  text-shadow: 0 0 5px #fff, 0 0 10px rgb(255, 204, 204), 0 0 20px #fd0054,
-    0 0 30px #fd0054, 0 0 40px #fd0054, 0 0 55px #fd0054, 0 0 75px #fd0054;
+  text-shadow: 0 0 5px #fff, 0 0 10px #9c04f3, 0 0 20px #fffb2a,
+    0 0 30px #fffb2a, 0 0 40px #fffb2a, 0 0 55px #fffb2a, 0 0 75px #fffb2a;
   text-align: center;
 }
 
 .bg-nav {
-  background: rgba(99, 70, 67, 0.8);
+  background: #9c04f3);
 }
 
 .footer-100 {
@@ -112,9 +112,9 @@
 }
 
 .lodge {
-  background: #eb5757;
-  background: -webkit-linear-gradient(to right, #000000, #eb5757);
-  background: linear-gradient(to right, #000000, #eb5757);
+  background: #fffb2a;
+  background: -webkit-linear-gradient(to right, #9c04f3, #fffb2a);
+  background: linear-gradient(to right, #9c04f3, #fffb2a);
 }
 
 .main-content {
@@ -122,7 +122,7 @@
 }
 
 .red {
-  color: red;
+  color: #9c04f3;
 }
 
 .nav-font {
@@ -406,11 +406,11 @@
     padding: 15vh 0 5vh 0;
   }
   .tp-text {
-    color: #58f85c;
+    color: #9c04f3;
     text-shadow: none;
   }
   .tp-text a {
-    color: #58f85c;
+    color: #9c04f3;
     text-shadow: none;
   }
 }

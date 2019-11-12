@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "name": "lebron1",
+    "image": "https://res.cloudinary.com/dlikwefpm/image/upload/v1573507927/clicky-game/lebron6_hndr90.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "lebron2",
+    "image": "https://res.cloudinary.com/dlikwefpm/image/upload/v1573507927/clicky-game/lebron12_dtirpc.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "lebron3",
+    "image": "https://res.cloudinary.com/dlikwefpm/image/upload/v1573507927/clicky-game/lebron7_enhe4f.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "lebron4",
+    "image": "https://res.cloudinary.com/dlikwefpm/image/upload/v1573507927/clicky-game/lebron3_x8bqdl.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "lebron5",
+    "image": "https://res.cloudinary.com/dlikwefpm/image/upload/v1573507927/clicky-game/lebron8_j9rhix.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "lebron6",
+    "image": "https://res.cloudinary.com/dlikwefpm/image/upload/v1573507927/clicky-game/lebron11_hftba0.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "lebron7",
+    "image": "https://res.cloudinary.com/dlikwefpm/image/upload/v1573507927/clicky-game/lebron10_m1uplj.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "lebron8",
+    "image": "https://res.cloudinary.com/dlikwefpm/image/upload/v1573507927/clicky-game/lebron5_dwvmzd.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "lebron9",
+    "image": "https://res.cloudinary.com/dlikwefpm/image/upload/v1573507927/clicky-game/lebron9_vvyv0p.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "lebron10",
+    "image": "https://res.cloudinary.com/dlikwefpm/image/upload/v1573507927/clicky-game/lebron4_mqwark.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "lebron11",
+    "image": "https://res.cloudinary.com/dlikwefpm/image/upload/v1573507927/clicky-game/lebron1_s47bdk.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "lebron12",
+    "image": "https://res.cloudinary.com/dlikwefpm/image/upload/v1573507927/clicky-game/lebron2_lpvdsw.jpg",
+    "clicked": false
+  }
+]
